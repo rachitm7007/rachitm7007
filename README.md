@@ -6,7 +6,7 @@ I am adept at working with Python and R Programming Language for Data Science an
 
 I am also well versed in the use of business intelligence tools, namely: PowerBI, Tabluea, Apache Superset and KNIME.
 
-As obvious as it can be, structured query languages also fall into my area of expertise as I am an efficient user of MySQL, PostGreSQL, SQLite3.
+Structured query languages also fall into my area of expertise as I am an efficient user of MySQL, PostGreSQL, SQLite3.
 
 Ultimately my goal in life is to use the magic of data science/machine learning and impact people's lives positively; be it healthcare industry, helping small businesses, people with special needs and much more.
 
