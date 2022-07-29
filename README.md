@@ -1,8 +1,8 @@
 ## Hello people of the Internet 😄!
 
-### My name is Rachit and I am a budding Data Science enthusiast 💻. I am extremely passionate about Data Science and all its various components. Currently I am a student pursuing a Master's degree in Data Science at SUNY Univerity at Buffalo, New York.
+My name is Rachit and I am a budding Data Science enthusiast 💻. I am extremely passionate about Data Science and all its various components. Currently I am a student pursuing a Master's degree in Data Science at SUNY Univerity at Buffalo, New York.
 
-I am adept at working with Python and R Programming Language for Data Science and Machine Learning. 
+I am adept at working with Python and R Programming Language for Data Science and Machine Learning.\n 
 I am also well versed in the use of business intelligence tools, namely: PowerBI, Tabluea, Apache Superset and KNIME.
 As obvious as it can be, structured uquery languages also fall into my area of expertise as I am an efficient user of MySQL, PostGreSQL, SQLite3.
 
