@@ -12,7 +12,7 @@ Ultimately my goal in life is to use the magic of data science/machine learning 
 
 To learn more about the professional stuff, [See my Resume!](https://drive.google.com/file/d/1W2WG8Ey0EJX_U1TilYoRQRokNGi-SG8b/view?usp=sharing)
 
-Contact me via [LinkedIn!]([url](https://www.linkedin.com/in/rachitmeshram/))
+Contact me via [LinkedIn!](https://www.linkedin.com/in/rachitmeshram/)
 <!--
 **rachitm7007/rachitm7007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
