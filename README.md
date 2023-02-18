@@ -10,7 +10,7 @@ Structured query languages also fall into my area of expertise as I am an effici
 
 Ultimately my goal in life is to use the magic of data science/machine learning and impact people's lives positively; be it healthcare industry, helping small businesses, people with special needs and much more.
 
-To learn more about the professional stuff, [See my Resume!](https://drive.google.com/file/d/1W2WG8Ey0EJX_U1TilYoRQRokNGi-SG8b/view?usp=sharing)
+To learn more about the professional stuff, [See my Resume!](https://drive.google.com/file/d/1zjeZMSwdWbT60zsLcNRKxKPc7p1KNgVf/view?usp=share_link)
 
 Contact me via [LinkedIn!](https://www.linkedin.com/in/rachitmeshram/)
 <!--
